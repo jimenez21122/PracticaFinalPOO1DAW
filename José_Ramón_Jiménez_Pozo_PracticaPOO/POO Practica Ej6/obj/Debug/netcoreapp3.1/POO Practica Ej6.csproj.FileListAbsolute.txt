@@ -1,0 +1,4 @@
+C:\Users\José Ramón\SOURCE\repos\POO Practica Ej6\POO Practica Ej6\obj\Debug\netcoreapp3.1\POO Practica Ej6.csprojAssemblyReference.cache
+C:\Users\José Ramón\SOURCE\repos\POO Practica Ej6\POO Practica Ej6\obj\Debug\netcoreapp3.1\POO Practica Ej6.AssemblyInfoInputs.cache
+C:\Users\José Ramón\SOURCE\repos\POO Practica Ej6\POO Practica Ej6\obj\Debug\netcoreapp3.1\POO Practica Ej6.AssemblyInfo.cs
+C:\Users\José Ramón\SOURCE\repos\POO Practica Ej6\POO Practica Ej6\obj\Debug\netcoreapp3.1\POO Practica Ej6.csproj.CoreCompileInputs.cache
